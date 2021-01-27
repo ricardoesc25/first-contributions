@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: first-contributions
+  annotations:
+    github.com/project-slug: ricardoesc25/first-contributions
+spec:
+  type: other
+  lifecycle: unknown
